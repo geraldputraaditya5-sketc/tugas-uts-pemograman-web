@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CatCSS & DogCSS</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Times New Roman, serif;
+            background-color: white;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        .box {
+            width: 50%;
+            padding: 10px;
+            box-sizing: border-box;
+            min-height: 250px;
+        }
+
+        .cat {
+            background-color: #7fffd4; /* aqua */
+        }
+
+        .dog {
+            background-color: #0cc066; /* orange */
+        }
+
+        h2 {
+            margin-top: 0;
+            font-size: 28px;
+        }
+
+        img {
+            width: 150px;
+            height: auto;
+            float: left;
+            margin-right: 15px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 20px;
+            line-height: 1.2;
+        }
+
+        footer {
+            text-align: center;
+            background-color: rgb(121, 26, 229);
+            color: white;
+            padding: 5px;
+            font-size: 14px;
+            border-top: 5px solid pink;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Cat Section -->
+        <div class="box cat">
+            <h2>CatCSS</h2>
+            <img src="d:\semester 4\pemog\OIP.jpg" alt="Cat">
+            <p>
+                Nap all day cat dog hate mouse eat string barf pillow no baths 
+                hate everything but kitty poochy. Sleep on keyboard toy mouse 
+                squeak roll over. Mesmerizing birds. Poop on grasses licks paws 
+                destroy couch intently sniff hand.
+            </p>
+        </div>
+
+        <!-- Dog Section -->
+        <div class="box dog">
+            <h2>DogCSS</h2>
+            <img src="https://placedog.net/200/200" alt="Dog">
+            <p>
+                Nap all day cat dog hate mouse eat string barf pillow no baths 
+                hate everything but kitty poochy. Sleep on keyboard toy mouse 
+                squeak roll over. Mesmerizing birds. Poop on grasses licks paws 
+                destroy couch intently sniff hand. The dog smells bad gnaw the corn cob.
+            </p>
+        </div>
+    </div>
+
+    <footer>
+        Copyright. This is the footer
+    </footer>
+
+</body>
+</html>

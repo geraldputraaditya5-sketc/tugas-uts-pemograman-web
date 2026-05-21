@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gerald touring icon</title>
+  <desc id="desc">A Gerald adventure icon with motorcycle touring and mountain theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#11150f"/>
+      <stop offset=".55" stop-color="#234b36"/>
+      <stop offset="1" stop-color="#c8792d"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <circle cx="560" cy="124" r="72" fill="#e9dfc8" opacity=".18"/>
+  <path d="M78 690l164-220 96 118 106-172 202 274z" fill="#e9dfc8" opacity=".28"/>
+  <path d="M122 710h476" stroke="#e9dfc8" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="224" cy="700" r="62" fill="#11150f" stroke="#e9dfc8" stroke-width="18"/>
+  <circle cx="502" cy="700" r="62" fill="#11150f" stroke="#e9dfc8" stroke-width="18"/>
+  <path d="M224 700l96-96h90l92 96m-182-96l-44-86m134 86l50-100m-140 100h-74" fill="none" stroke="#e9dfc8" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 482h116l50 48" fill="none" stroke="#c8792d" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="360" y="190" fill="#e9dfc8" font-family="Georgia, serif" font-size="96" font-weight="900" text-anchor="middle">Gerald</text>
+  <text x="360" y="248" fill="#c8792d" font-family="Courier New, monospace" font-size="28" font-weight="700" text-anchor="middle">TOURING & HIKING</text>
+</svg>

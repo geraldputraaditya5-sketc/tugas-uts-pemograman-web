@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gerald route planner dashboard</title>
+  <desc id="desc">A touring route planner dashboard concept.</desc>
+  <rect width="720" height="420" fill="#234b36"/>
+  <rect x="54" y="48" width="612" height="324" fill="#11150f"/>
+  <text x="92" y="112" fill="#c8792d" font-family="Georgia, serif" font-size="54" font-weight="900">ROUTE PLAN</text>
+  <path d="M112 310c52-86 104-116 156-88 70 38 88-86 150-64 62 22 72 106 188 48" fill="none" stroke="#e9dfc8" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="112" cy="310" r="18" fill="#c8792d"/>
+  <circle cx="606" cy="206" r="18" fill="#c8792d"/>
+  <rect x="108" y="142" width="132" height="32" fill="#e9dfc8"/>
+  <rect x="108" y="194" width="90" height="20" fill="#c8792d"/>
+  <rect x="458" y="278" width="128" height="28" fill="#e9dfc8"/>
+  <rect x="458" y="322" width="92" height="18" fill="#c8792d"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">Project website portfolio</title>
+  <desc id="desc">Ilustrasi tampilan website responsif.</desc>
+  <rect width="720" height="520" rx="36" fill="#edf3f0"/>
+  <rect x="76" y="94" width="430" height="284" rx="28" fill="#183153"/>
+  <rect x="104" y="130" width="374" height="212" rx="18" fill="#ffffff"/>
+  <rect x="132" y="160" width="138" height="22" rx="11" fill="#4d7cff"/>
+  <rect x="132" y="206" width="232" height="18" rx="9" fill="#d8e0ef"/>
+  <rect x="132" y="238" width="184" height="18" rx="9" fill="#d8e0ef"/>
+  <rect x="132" y="284" width="94" height="36" rx="18" fill="#ff8a5b"/>
+  <rect x="382" y="166" width="64" height="132" rx="24" fill="#ffbf47"/>
+  <rect x="512" y="176" width="128" height="230" rx="28" fill="#183153"/>
+  <rect x="532" y="212" width="88" height="152" rx="16" fill="#ffffff"/>
+  <circle cx="576" cy="384" r="9" fill="#ffffff"/>
+</svg>

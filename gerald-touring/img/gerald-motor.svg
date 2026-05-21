@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gerald touring identity</title>
+  <desc id="desc">A motorcycle touring identity board for Gerald.</desc>
+  <rect width="720" height="420" fill="#11150f"/>
+  <rect x="54" y="54" width="612" height="312" fill="#e9dfc8"/>
+  <text x="96" y="148" fill="#234b36" font-family="Georgia, serif" font-size="72" font-weight="900">Gerald</text>
+  <text x="100" y="202" fill="#11150f" font-family="Courier New, monospace" font-size="24">ADVENTURE IDENTITY</text>
+  <circle cx="195" cy="292" r="40" fill="none" stroke="#11150f" stroke-width="14"/>
+  <circle cx="405" cy="292" r="40" fill="none" stroke="#11150f" stroke-width="14"/>
+  <path d="M195 292l72-72h76l62 72m-138-72l-34-70m110 70l44-86m-120 86h-58" fill="none" stroke="#234b36" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="486" y="98" width="96" height="96" fill="#c8792d"/>
+  <rect x="486" y="226" width="126" height="30" fill="#234b36"/>
+  <rect x="486" y="282" width="78" height="20" fill="#11150f"/>
+</svg>

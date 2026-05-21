@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gerald hiking log app</title>
+  <desc id="desc">A hiking log application concept with mountain shapes.</desc>
+  <rect width="720" height="420" fill="#e9dfc8"/>
+  <path d="M74 322l166-204 104 128 76-102 226 178z" fill="#234b36"/>
+  <path d="M240 118l52 64-38-16-34 42-30-48z" fill="#f6f0df"/>
+  <path d="M420 144l66 52-48-8-38 48-28-50z" fill="#f6f0df"/>
+  <rect x="96" y="326" width="528" height="22" fill="#11150f"/>
+  <circle cx="557" cy="98" r="46" fill="#c8792d"/>
+  <text x="360" y="382" fill="#11150f" font-family="Courier New, monospace" font-size="28" font-weight="700" text-anchor="middle">HIKING LOG & SUMMIT NOTES</text>
+</svg>

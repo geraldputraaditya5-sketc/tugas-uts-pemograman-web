@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-labelledby="title desc">
+  <title id="title">Foto profil ilustrasi</title>
+  <desc id="desc">Ilustrasi mahasiswa kreatif dengan latar warna cerah.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff1d6"/>
+      <stop offset=".55" stop-color="#cfe7ff"/>
+      <stop offset="1" stop-color="#4d7cff"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1">
+      <stop offset="0" stop-color="#183153"/>
+      <stop offset="1" stop-color="#ff8a5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="620" rx="44" fill="url(#bg)"/>
+  <circle cx="418" cy="94" r="42" fill="#ffbf47"/>
+  <circle cx="84" cy="500" r="58" fill="#42c7a5"/>
+  <path d="M94 530c52-96 99-139 168-139s116 43 168 139v90H94z" fill="url(#shirt)"/>
+  <circle cx="260" cy="236" r="118" fill="#f7b28b"/>
+  <path d="M146 213c13-90 65-143 147-137 71 6 117 55 116 126-34 7-78-2-122-27-34 35-81 51-141 38z" fill="#18243b"/>
+  <path d="M168 245c-16-12-38 0-32 27 6 28 31 31 41 19m175-46c16-12 38 0 32 27-6 28-31 31-41 19" fill="#f7b28b"/>
+  <path d="M210 258c11 12 28 12 39 0m55 0c11 12 28 12 39 0" stroke="#18243b" stroke-width="10" stroke-linecap="round"/>
+  <path d="M230 316c20 17 43 17 62 0" stroke="#b55f52" stroke-width="10" stroke-linecap="round"/>
+  <rect x="150" y="432" width="220" height="72" rx="26" fill="#fff" opacity=".94"/>
+  <text x="260" y="477" fill="#183153" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">PORTFOLIO</text>
+</svg>
